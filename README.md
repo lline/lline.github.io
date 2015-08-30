@@ -1,2 +1,0 @@
-# lline.github.io
-blog
